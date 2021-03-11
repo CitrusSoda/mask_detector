@@ -46,7 +46,7 @@ python video.py
 ## Reference
 
 
-- ####  <span style="color:red">Code</span>: https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+- #### 🔥Code: https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 - Dataset: https://github.com/prajnasb/observations
 - Code2 : https://github.com/kairess/mask-detection#covid-19-face-mask-detection
 - Blog1 : https://gachonyws.github.io/project/mask-detection/
